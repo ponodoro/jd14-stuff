@@ -1,0 +1,6 @@
+[
+  {
+        "maps": ["MapName"],
+        "ambs": ["Intro", "Outro"]
+    }
+]
